@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/anuragverma_108" target="blank"><img src="https://img.shields.io/twitter/follow/anuragverma_108?logo=twitter&style=for-the-badge" alt="anuragverma_108" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **anuragvermacontact@gmail.com**
 
