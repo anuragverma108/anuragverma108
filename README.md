@@ -21,5 +21,6 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragverma108&show_icons=true&locale=en" alt="anuragverma108" /></p>
+[![An image of @anuragverma108's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anuragverma108)](https://holopin.io/@anuragverma108)
 
 
