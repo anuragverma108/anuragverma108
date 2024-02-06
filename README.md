@@ -2,11 +2,14 @@
 
 Frontend Developer: Passionate about crafting user-friendly interfaces and enhancing the overall user experience.
 <br>
+<br>
 React JS Enthusiast: Currently immersed in mastering React JS to build dynamic and responsive web applications.
+<br>
 <br>
 Hackathon Aficionado:
   - MLH Hackathons: Proud participant in events like Diversion 2k24, showcasing problem-solving skills and innovative thinking.
   - Online Hackathons: Actively engaged in various online hackathons, such as Hack Hurricane 1.0, where I tackled challenges and honed my coding abilities.
+<br>
 <br>
 Open Source Contributor & Maintainer:
   - Hacktoberfest 2k23: Contributed to open source projects, embracing the spirit of collaborative coding.
@@ -14,9 +17,11 @@ Open Source Contributor & Maintainer:
   - SWOC'24: Continued my open source journey by actively participating and contributing in the Winter of Code.
   - WoB'24: Currently serving as a mentee, learning and contributing to the Women of Code community.
 <br>
+<br>
 DSA Explorer in C++:
   - Dedicated to mastering Data Structures and Algorithms in C++ to strengthen problem-solving skills.
   - Maintainer of the "DSA Placement Problems" repository, a part of Hacktoberfest'23, providing a platform for fellow developers to practice and excel in DSA.
+<br>
 <br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuragverma_108) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag.bytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-verma-b91417253/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anurag-Verma-1538) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragverma_108) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anuragbytes_) 
