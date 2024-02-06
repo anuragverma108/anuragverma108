@@ -9,8 +9,8 @@ React JS Enthusiast: Currently immersed in mastering React JS to build dynamic a
 Hackathon Aficionado:
   - MLH Hackathons: Proud participant in events like Diversion 2k24, showcasing problem-solving skills and innovative thinking.
   - Online Hackathons: Actively engaged in various online hackathons, such as Hack Hurricane 1.0, where I tackled challenges and honed my coding abilities.
-<br>
-<br>
+
+
 Open Source Contributor & Maintainer:
   - Hacktoberfest 2k23: Contributed to open source projects, embracing the spirit of collaborative coding.
   - SSOC'23: Made meaningful contributions in the Summer of Code, adding value to diverse projects.
