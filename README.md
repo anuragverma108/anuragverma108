@@ -15,7 +15,7 @@ Open Source Contributor & Maintainer:
   - Hacktoberfest 2k23: Contributed to open source projects, embracing the spirit of collaborative coding.
   - SSOC'23: Made meaningful contributions in the Summer of Code, adding value to diverse projects.
   - SWOC'24: Continued my open source journey by actively participating and contributing in the Winter of Code.
-  - WoB'24: Currently serving as a mentee, learning and contributing to the Women of Code community.
+  - WoB'24: Currently serving as a mentee, learning and contributing to the Winter of Blockchain community.
 
 DSA Explorer in C++:
   - Dedicated to mastering Data Structures and Algorithms in C++ to strengthen problem-solving skills.
