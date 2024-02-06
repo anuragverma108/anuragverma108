@@ -1,23 +1,20 @@
 # 💫 About Me:
 
-Frontend Developer: Passionate about crafting user-friendly interfaces and enhancing the overall user experience.
-<br>
-<br>
-React JS Enthusiast: Currently immersed in mastering React JS to build dynamic and responsive web applications.
-<br>
-<br>
-Hackathon Aficionado:
+- **Frontend Developer:** Passionate about crafting user-friendly interfaces and enhancing the overall user experience.
+
+- **React JS Enthusiast:** Currently immersed in mastering React JS to build dynamic and responsive web applications.
+
+- **Hackathon Aficionado:**
   - MLH Hackathons: Proud participant in events like Diversion 2k24, showcasing problem-solving skills and innovative thinking.
   - Online Hackathons: Actively engaged in various online hackathons, such as Hack Hurricane 1.0, where I tackled challenges and honed my coding abilities.
 
-
-Open Source Contributor & Maintainer:
+- **Open Source Contributor & Maintainer:**
   - Hacktoberfest 2k23: Contributed to open source projects, embracing the spirit of collaborative coding.
   - SSOC'23: Made meaningful contributions in the Summer of Code, adding value to diverse projects.
   - SWOC'24: Continued my open source journey by actively participating and contributing in the Winter of Code.
   - WoB'24: Currently serving as a mentee, learning and contributing to the Winter of Blockchain community.
 
-DSA Explorer in C++:
+- **DSA Explorer in C++:**
   - Dedicated to mastering Data Structures and Algorithms in C++ to strengthen problem-solving skills.
   - Maintainer of the "DSA Placement Problems" repository, a part of Hacktoberfest'23, providing a platform for fellow developers to practice and excel in DSA.
 
