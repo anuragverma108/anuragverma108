@@ -1,12 +1,23 @@
 # 💫 About Me:
 
-- **Frontend Developer:** Passionate about crafting user-friendly interfaces and enhancing the overall user experience.
+Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master React JS for crafting exceptional user interfaces.
 
-- **React JS Enthusiast:** Currently immersed in mastering React JS to build dynamic and responsive web applications.
+- **Hackathon Highlights:**
+  - **SwapReads.com (NITDGP Hacks 1.0):**
+    - Mar 2024
+    - Developed at NITDGP Hacks 1.0, showcasing my skills in web development.
+    - Project on Devfolio: [[SwapReads.com | Devfolio](https://devfolio.co/submissions/swapreads)](https://devfolio.co/projects/swapreadscom-5fd6)
 
-- **Hackathon Aficionado:**
-  - MLH Hackathons: Proud participant in events like Diversion 2k24, showcasing problem-solving skills and innovative thinking.
-  - Online Hackathons: Actively engaged in various online hackathons, such as Hack Hurricane 1.0, where I tackled challenges and honed my coding abilities.
+  - **LifeSync-Hub (Diversion 2k24):**
+    - Feb 2024 
+    - Built during Diversion 2k24, demonstrating my proficiency in web development.
+    - Project on Devfolio: [[LifeSync Hub | Devfolio](https://devfolio.co/submissions/lifesynchub)](https://devfolio.co/projects/lifesync-hub-54f3)
+
+  - **MedQ (Hack Hurricane 1.0):**
+    - Jan 2024 
+    - Created at Hack Hurricane 1.0, leveraging skills in CSS, Firebase, JavaScript, and HTML5.
+    - Project on Devfolio: [[MedQ | Devfolio](https://devfolio.co/submissions/medq)](https://devfolio.co/projects/medq-85df)
+
 
 - **Open Source Contributor & Maintainer:**
   - Hacktoberfest 2k23: Contributed to open source projects, embracing the spirit of collaborative coding.
