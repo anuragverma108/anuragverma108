@@ -12,12 +12,13 @@ Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master React J
   - **LifeSync-Hub (Diversion 2k24):**
     - Feb 2024 
     - Built during Diversion 2k24, demonstrating my proficiency in web development.
-    - Project on Devfolio: [[LifeSync Hub | Devfolio](https://devfolio.co/submissions/lifesynchub)](https://devfolio.co/projects/lifesync-hub-54f3)
+    - Project on Devfolio: [LifeSync Hub](https://devfolio.co/projects/lifesync-hub-54f3)
 
   - **MedQ (Hack Hurricane 1.0):**
     - Jan 2024 
     - Created at Hack Hurricane 1.0, leveraging skills in CSS, Firebase, JavaScript, and HTML5.
-    - Project on Devfolio: [[MedQ | Devfolio](https://devfolio.co/submissions/medq)](https://devfolio.co/projects/medq-85df)
+    - Project on Devfolio: [MedQ](https://devfolio.co/projects/medq-85df)
+
 
 
 - **Open Source Contributor & Maintainer:**
