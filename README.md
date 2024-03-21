@@ -5,8 +5,9 @@ Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master React J
 - **Hackathon Highlights:**
   - **SwapReads.com (NITDGP Hacks 1.0):**
     - Mar 2024
-    - Developed at NITDGP Hacks 1.0, showcasing my skills in web development.
-    - Project on Devfolio: [[SwapReads.com | Devfolio](https://devfolio.co/submissions/swapreads)](https://devfolio.co/projects/swapreadscom-5fd6)
+    - Developed at NITDGP Hacks 1.0, where my team, Guardian Hackers, secured a position among the top 5 winners, clinching the 'runner-up' title.
+    - Project on Devfolio: [SwapReads.com](https://devfolio.co/projects/swapreadscom-5fd6)
+
 
   - **LifeSync-Hub (Diversion 2k24):**
     - Feb 2024 
