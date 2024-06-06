@@ -2,23 +2,29 @@
 
 Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master React JS for crafting exceptional user interfaces.
 
-- **Hackathon Highlights:**
-  - **SwapReads.com (NITDGP Hacks 1.0):**
-    - Mar 2024
-    - Developed at NITDGP Hacks 1.0, where my team, Guardian Hackers, secured a position among the top 5 winners, clinching the 'runner-up' title.
-    - Project on Devfolio: [SwapReads.com](https://devfolio.co/projects/swapreadscom-5fd6)
+# Hackathon Highlights
 
+- **Innovatrix Hackathon (Avenir - The Tech Fest of NSEC, Kolkata):**
+  - **Skillscribe:**
+    - **May 2024**
+    - Participated in the Innovatrix Hackathon organized during Avenir - The Tech Fest of NSEC, Kolkata.
+    - Our team, Coding Titans, secured 2nd place in the hackathon.
+    - Built 'Skillscribe' using NextJs, TypeScript, Firebase, Prisma, PostgreSQL, OpenAI API, Elevenlabs.io, Replicate API, FastAPI, and Python.
 
-  - **LifeSync-Hub (Diversion 2k24):**
-    - Feb 2024 
-    - Built during Diversion 2k24, demonstrating my proficiency in web development.
-    - Project on Devfolio: [LifeSync Hub](https://devfolio.co/projects/lifesync-hub-54f3)
+- **SwapReads.com (NITDGP Hacks 1.0):**
+  - **Mar 2024**
+  - Developed at NITDGP Hacks 1.0, where my team, Guardian Hackers, secured a position among the top 5 winners, clinching the 'runner-up' title.
+  - Project on Devfolio: [SwapReads.com](https://devfolio.co/projects/swapreadscom-5fd6)
 
-  - **MedQ (Hack Hurricane 1.0):**
-    - Jan 2024 
-    - Created at Hack Hurricane 1.0, leveraging skills in CSS, Firebase, JavaScript, and HTML5.
-    - Project on Devfolio: [MedQ](https://devfolio.co/projects/medq-85df)
+- **LifeSync-Hub (Diversion 2k24):**
+  - **Feb 2024**
+  - Built during Diversion 2k24, demonstrating my proficiency in web development.
+  - Project on Devfolio: [LifeSync Hub](https://devfolio.co/projects/lifesync-hub-54f3)
 
+- **MedQ (Hack Hurricane 1.0):**
+  - **Jan 2024**
+  - Created at Hack Hurricane 1.0, leveraging skills in CSS, Firebase, JavaScript, and HTML5.
+  - Project on Devfolio: [MedQ](https://devfolio.co/projects/medq-85df)
 
 
 - **Open Source Contributor & Maintainer:**
