@@ -32,6 +32,9 @@ Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master ReactJS
 - **Project Admin of 'SwapReads' (GSSOC'24):**
   - Leading and managing the 'SwapReads' project in the GirlScript Summer of Code 2024.
 
+- **Mentor of METAVERSE Project at SSOC:**
+  - Guiding and mentoring participants in the METAVERSE project as part of the Summer of Code program.
+
 - **Hacktoberfest 2k23:**
   - Contributed to open source projects, embracing the spirit of collaborative coding.
 
