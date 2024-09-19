@@ -1,51 +1,39 @@
 # 💫 About Me:
 
-Hey there, I'm Anurag Verma, a Frontend Developer on a journey to master ReactJS for crafting exceptional user interfaces.
+Hey! I’m **Anurag Verma**, a frontend developer focused on mastering **ReactJS** to build smooth and user-friendly interfaces. I’ve recently started exploring **Web3** and **Blockchain** to see how they can change the way we use the web.
 
-# Hackathon Highlights
+Right now, I’m working on **Web Development**, **Open Source**, and learning **Web3 & Blockchain**.
 
-- **Innovatrix Hackathon (Avenir - The Tech Fest of NSEC, Kolkata):**
-  - **Skillscribe:**
-    - **May 2024**
-    - Participated in the Innovatrix Hackathon organized during Avenir - The Tech Fest of NSEC, Kolkata.
-    - Our team, Coding Titans, secured 2nd place in the hackathon.
-    - Built 'Skillscribe' using NextJs, TypeScript, Firebase, Prisma, PostgreSQL, OpenAI API, Elevenlabs.io, Replicate API, FastAPI, and Python.
+---
 
-- **SwapReads.com (NITDGP Hacks 1.0):**
-  - **Mar 2024**
-  - Developed at NITDGP Hacks 1.0, where my team, Guardian Hackers, secured a position among the top 5 winners, clinching the 'runner-up' title.
-  - Project on Devfolio: [SwapReads.com](https://devfolio.co/projects/swapreadscom-5fd6)
+## ⚡ Hackathons
 
-- **LifeSync-Hub (Diversion 2k24):**
-  - **Feb 2024**
-  - Built during Diversion 2k24, demonstrating my proficiency in web development.
-  - Project on Devfolio: [LifeSync Hub](https://devfolio.co/projects/lifesync-hub-54f3)
+- **Hack4Bengal 3.0 (June 2024)**  
+  Built **Health AI Wizard**, an AI health assistant.
 
-- **MedQ (Hack Hurricane 1.0):**
-  - **Jan 2024**
-  - Created at Hack Hurricane 1.0, leveraging skills in CSS, Firebase, JavaScript, and HTML5.
-  - Project on Devfolio: [MedQ](https://devfolio.co/projects/medq-85df)
+- **Innovatrix Hackathon (May 2024)**  
+  Created **Skillscribe**, securing **2nd place** with my team.
 
+- **NITDGP Hacks 1.0 (Mar 2024)**  
+  Developed **SwapReads.com**, finished as **runner-up**.
 
-# Open Source Contributor & Maintainer
+- **Diversion 2k24 (Feb 2024)**  
+  Built **LifeSync Hub** to showcase my web dev skills.
 
-- **Project Admin of 'SwapReads' (GSSOC'24):**
-  - Leading and managing the 'SwapReads' project in the GirlScript Summer of Code 2024.
+- **Hack Hurricane 1.0 (Jan 2024)**  
+  Created **MedQ**, a health-related app.
 
-- **Mentor of METAVERSE Project at SSOC:**
-  - Guiding and mentoring participants in the METAVERSE project as part of the Summer of Code program.
+---
 
-- **Hacktoberfest 2k23:**
-  - Contributed to open source projects, embracing the spirit of collaborative coding.
+## 🌟 Open Source Contributions
 
-- **SSOC'23:**
-  - Made meaningful contributions in the Summer of Code, adding value to diverse projects.
+- **Project Admin** of *SwapReads* (GSSOC'24)  
+- **Mentor** of METAVERSE Project (SSOC)  
+- **Contributed** in Hacktoberfest, SSOC'23, SWOC'24, and WoB'24  
 
-- **SWOC'24:**
-  - Continued my open source journey by actively participating and contributing in the Winter of Code.
+---
 
-- **WoB'24:**
-  - Currently serving as a mentee, learning and contributing to the Winter of Blockchain community.
+I’m always open to learning, collaborating, and creating cool projects!
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuragverma_108) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag.bytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-verma-b91417253/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anurag-Verma-1538) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragverma_108) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anuragbytes_) 
