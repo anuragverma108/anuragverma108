@@ -1,39 +1,39 @@
+
 # 💫 About Me:
 
-Hey! I’m **Anurag Verma**, a frontend developer focused on mastering **ReactJS** to build smooth and user-friendly interfaces. I’ve recently started exploring **Web3** and **Blockchain** to see how they can change the way we use the web.
-
-Right now, I’m working on **Web Development**, **Open Source**, and learning **Web3 & Blockchain**.
+Hey there! I’m **Anurag Verma** 👋, a frontend developer dedicated to mastering **ReactJS** for creating smooth, user-friendly interfaces. I'm also diving into the world of **Web3** and **Blockchain** to explore their transformative potential on the web. My current focus areas are **Web Development**, **Open Source**, and learning **Web3 & Blockchain**.
 
 ---
 
-## ⚡ Hackathons
+## ⚡ Hackathon Journey
 
 - **Hack4Bengal 3.0 (June 2024)**  
-  Built **Health AI Wizard**, an AI health assistant.
+  Built **Health AI Wizard**, an AI-based health assistant.
 
 - **Innovatrix Hackathon (May 2024)**  
   Created **Skillscribe**, securing **2nd place** with my team.
 
 - **NITDGP Hacks 1.0 (Mar 2024)**  
-  Developed **SwapReads.com**, finished as **runner-up**.
+  Developed **SwapReads.com**, finishing as **runner-up**.
 
 - **Diversion 2k24 (Feb 2024)**  
-  Built **LifeSync Hub** to showcase my web dev skills.
+  Built **LifeSync Hub**
 
 - **Hack Hurricane 1.0 (Jan 2024)**  
   Created **MedQ**, a health-related app.
 
 ---
 
-## 🌟 Open Source Contributions
+## 🌟 Open Source Contributions & Maintainer Roles
 
-- **Project Admin** of *SwapReads* (GSSOC'24)  
-- **Mentor** of METAVERSE Project (SSOC)  
-- **Contributed** in Hacktoberfest, SSOC'23, SWOC'24, and WoB'24  
+- **Project Admin** of *SwapReads* (Top 3 Project Admin in **GSSOC'24**)
+- **Hacktoberfest 2024** Maintainer of **WildGuard** repository
+- **Mentor** for *Metaverse* Project in **SSOC**
+- **Contributions** in **Hacktoberfest**, **SSOC'23**, **SWOC'24**, and **Winter of Blockchain (WoB'24)**
 
----
+I’m passionate about learning, collaborating, and building meaningful projects. Let's connect and create something amazing together! 🚀
 
-I’m always open to learning, collaborating, and creating cool projects!
+--- 
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuragverma_108) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag.bytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-verma-b91417253/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anurag-Verma-1538) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragverma_108) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anuragbytes_) 
