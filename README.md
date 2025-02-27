@@ -7,6 +7,9 @@ Hey there! I’m **Anurag Verma** 👋, a frontend developer dedicated to master
 
 ## ⚡ Hackathon Journey
 
+- **Diversion 2k25 (Feb 2025)**  
+  Built **IngRecipeAI**, an AI-powered personalized meal planner and nutrition tracker.
+
 - **Hack4Bengal 3.0 (June 2024)**  
   Built **Health AI Wizard**, an AI-based health assistant.
 
