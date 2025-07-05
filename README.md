@@ -3,9 +3,9 @@
 Hey there! I’m **Anurag Verma** 👋  
 A final-year B.Tech CSE student (NSEC CSE'26) who enjoys building, learning, and solving problems through code. I'm especially interested in **Web Development**, **DSA**, and **Open Source**.
 
-- 🌐 Currently working with **React** and building responsive, user-friendly interfaces  
-- 📦 Maintainer and contributor in **open source projects** through programs like **GSSoC**, **Hacktoberfest**, and more  
-- 🚀 Co-founder of [**NooBuild**](https://www.noobuild.in) community – a student-led tech community with **2K+ members** and growing  
+- 🌐 Currently working with **React** and building responsive, user-friendly interfaces.  
+- 📦 Maintainer and contributor in **open source projects** through programs like **GSSoC**, **Hacktoberfest**, and more.  
+- 🚀 Co-founder of [**NooBuild**](https://www.noobuild.in) community – a student-led tech community with **2K+ members** and growing. 
 
 I enjoy learning by doing — building side projects, exploring new tools, and collaborating in communities that help us grow together.
 
