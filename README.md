@@ -1,42 +1,47 @@
+# 💫 About Me
 
-# 💫 About Me:
+Hey there! I’m **Anurag Verma** 👋  
+A final-year B.Tech CSE student (NSEC CSE'26) who enjoys building, learning, and solving problems through code. I'm especially interested in **Web Development**, **DSA**, and **Open Source**.
 
-Hey there! I’m **Anurag Verma** 👋, a frontend developer dedicated to mastering **ReactJS** for creating smooth, user-friendly interfaces. I'm also diving into the world of **Web3** and **Blockchain** to explore their transformative potential on the web. My current focus areas are **Web Development**, **Open Source**, and learning **Web3 & Blockchain**.
+- 🌐 Currently working with **React** and building responsive, user-friendly interfaces  
+- 📦 Maintainer and contributor in **open source projects** through programs like **GSSoC**, **Hacktoberfest**, and more  
+- 🚀 Co-founder of [**NooBuild**](https://www.noobuild.in) – a student-led tech community with **2K+ members** and growing  
+
+I enjoy learning by doing — building side projects, exploring new tools, and collaborating in communities that help us grow together.
 
 ---
 
 ## ⚡ Hackathon Journey
 
-- **Diversion 2k25 (Feb 2025)**  
-  Built **IngRecipeAI**, an AI-powered personalized meal planner and nutrition tracker.
+Hackathons have been a big part of my learning. Here's a glimpse into some of the projects I’ve built:
 
-- **Hack4Bengal 3.0 (June 2024)**  
-  Built **Health AI Wizard**, an AI-based health assistant.
-
-- **Innovatrix Hackathon (May 2024)**  
-  Created **Skillscribe**, securing **2nd place** with my team.
-
-- **NITDGP Hacks 1.0 (Mar 2024)**  
-  Developed **SwapReads.com**, finishing as **runner-up**.
-
-- **Diversion 2k24 (Feb 2024)**  
-  Built **LifeSync Hub**
-
-- **Hack Hurricane 1.0 (Jan 2024)**  
-  Created **MedQ**, a health-related app.
+- 🥗 **Diversion 2k25 (Feb 2025)** – Built **IngRecipeAI**, an AI-powered personalized meal planner and nutrition tracker  
+- 🧠 **Hack4Bengal 3.0 (June 2024)** – Created **Health AI Wizard**, an AI-based health assistant  
+- ✍️ **Innovatrix Hackathon (May 2024)** – Built **Skillscribe**, secured **2nd place** with my team  
+- 📚 **NITDGP Hacks 1.0 (Mar 2024)** – Developed **SwapReads.com**, finished as **runner-up**  
+- 🩺 **Diversion 2k24 (Feb 2024)** – Created **LifeSync Hub**, a patient-doctor portal  
+- 💊 **Hack Hurricane 1.0 (Jan 2024)** – Built **MedQ**, a medicine reminder and info app  
 
 ---
 
-## 🌟 Open Source Contributions & Maintainer Roles
+## 🌟 Open Source Contributions & Roles
 
-- **Project Admin** of *SwapReads* (Top 3 Project Admin in **GSSOC'24**)
-- **Hacktoberfest 2024** Maintainer of **WildGuard** repository
-- **Mentor** for *Metaverse* Project in **SSOC**
-- **Contributions** in **Hacktoberfest**, **SSOC'23**, **SWOC'24**, and **Winter of Blockchain (WoB'24)**
+Open source has helped me grow not just technically, but also as a collaborator and leader.
 
-I’m passionate about learning, collaborating, and building meaningful projects. Let's connect and create something amazing together! 🚀
+- 🛠️ **Project Admin** – *SwapReads* (Top 3 Project Admin in **GSSoC'24**)  
+- 🌍 **Maintainer** – *WildGuard* for **Hacktoberfest 2024**  
+- 🧑‍🏫 **Mentor** – *Metaverse* project in **SSOC’24**  
+- 🔗 **Contributor** – Participated in **Hacktoberfest**, **SSOC'23**, **SWOC'24**, **Winter of Blockchain (WoB'24)**
 
---- 
+---
+
+## 💻 Tech Stack
+
+- **Languages:** C++, Java, Python, JavaScript  
+- **Frontend:** React.js, HTML, CSS, Tailwind, Bootstrap, Material UI  
+- **Backend (Basic):** Node.js, Express  
+- **Tools:** Git, GitHub, VS Code, Firebase, MongoDB  
+
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anuragverma_108) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anurag.bytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-verma-b91417253/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anurag-Verma-1538) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anuragverma_108) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anuragbytes_) 
