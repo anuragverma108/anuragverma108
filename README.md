@@ -15,6 +15,7 @@ I enjoy learning by doing — building projects, exploring new tools, and collab
 
 Hackathons have been a big part of my learning. Here's a glimpse into some of the projects I’ve built:
 
+- 💨 **Hack4Bengal 4.0 (July 2025)** – Built **Vaayu**, a decentralized, AI-powered health app that gives live AQI alerts, personalized lifestyle suggestions using Gemini AI, and rewards healthy habits via Green Tokens.  
 - 🥗 **Diversion 2k25 (Feb 2025)** – Built **IngRecipeAI**, an AI-powered personalized meal planner and nutrition tracker  
 - 🧠 **Hack4Bengal 3.0 (June 2024)** – Created **Health AI Wizard**, an AI-based health assistant  
 - ✍️ **Innovatrix Hackathon (May 2024)** – Built **Skillscribe**, secured **2nd place** with my team  
